@@ -8,4 +8,3 @@ TDD uses JUnit, while BDD adopts JBehave and Junit stories.
 
 Extremly simple but it works and it has basic stuff.
 
-This project uses Intellij IDEA.
